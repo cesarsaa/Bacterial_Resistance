@@ -33,7 +33,7 @@ root <- "/Users/cesara.saavedravanegas/Documents/Investigacion_Javeriana" # Ruta
 ## Levels
 # Intermediate = I
 # Sensitive = S
-# Resistant =R
+# Resistant = R
 
 # -------------------------------------------------------------------------
 ## Split by family to asociate category of resistance 
